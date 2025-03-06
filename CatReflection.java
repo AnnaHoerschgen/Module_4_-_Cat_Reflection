@@ -3,7 +3,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 public class CatReflection {
-    public static void main(String[] args) throws IllegalArgumentException, IllegalAccessException, InvocationTargetException {
+    /*public static void main(String[] args) throws IllegalArgumentException, IllegalAccessException, InvocationTargetException {
         Cat myCat = new Cat("Stella", 4);
         Field[] catFields = myCat.getClass().getDeclaredFields();
 
@@ -23,5 +23,9 @@ public class CatReflection {
                 method.invoke(myCat);
             }
         }
+    }*/
+
+    public static void main(String[] args) {
+        //
     }
 }

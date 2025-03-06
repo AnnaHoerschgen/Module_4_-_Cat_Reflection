@@ -1,4 +1,4 @@
-public class Cat {
+/*public class Cat {
     private final String name;
     private int age;
 
@@ -30,4 +30,8 @@ public class Cat {
     public boolean hasBrainCell() {
         return false;
     }
+}*/
+
+public class Cat {
+    //
 }

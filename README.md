@@ -12,11 +12,6 @@ This project demonstrates how to use Java Reflection to manipulate private field
 - Java 8 or higher
 - IDE (like IntelliJ IDEA, Eclipse) or command-line setup for running Java programs.
 
-## Example Output
-
-When the program runs, the output will be:
-Jimmy McGill meow :3
-
 
 ## Video Tutorial
 
